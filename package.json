@@ -1,0 +1,19 @@
+{
+  "name": "rxjs",
+  "version": "1.0.0",
+  "description": "RxJS examples",
+  "main": "index.js",
+  "author": "Irina Lipovaya",
+  "license": "MIT",
+  "scripts": {
+    "start": "webpack-dev-server --mode development"
+  },
+  "dependencies": {
+    "rxjs": "^6.5.2",
+    "webpack": "^4.31.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.2",
+    "webpack-dev-server": "^3.4.1"
+  }
+}
